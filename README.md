@@ -1,16 +1,40 @@
-## Hi there 👋
+# ¡Hola! Soy Daniel Alejandro Alanis 👋
 
-<!--
-**danielalejandroalanis/danielalejandroalanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy una persona apasionada por la tecnología y el desarrollo de software. Aquí encontrarás algunos de mis proyectos y contribuciones.
 
-Here are some ideas to get you started:
+## Sobre mí 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Especialización:**  
+- **FrontEnd:**
+  - React ⚛️ (nivel experto)
+  - Angular 🌐 (nivel principiante)
+- **Mobile:**  
+  - Flutter 📱🔄 (proyectos actuales: [Divisi](https://divisi.app/))
+- **Backend:**  
+  - NestJs 🏠
+
+🌐 **Proyectos Actuales:**  
+- Desarrollo de la app móvil de [Divisi](https://divisi.app/)
+- Desarrollo landing y Backoffice de Divisi
+
+📚 **Certificaciones:**  
+- Microsoft Certified: Azure Fundamentals (AZ-900) 🏅
+- Estudiando para: Azure Developer Associate (AZ-204) 📖
+
+💡 **Intereses:**  
+- Tecnologías emergentes y nuevas tecnologías
+- Inteligencia Artificial 🤖 (futuro interés y meta)
+
+## Redes Sociales 🌐
+
+- [LinkedIn](https://www.linkedin.com/in/danielalejandroalanis/) 💼
+- [YouTube - CodingRift](https://www.youtube.com/@CodingRift) 🎥
+
+## Metas a Futuro 🎯
+
+- Ampliar mis conocimientos en IA y aplicar estos conocimientos en proyectos futuros.
+- Continuar creciendo profesionalmente y adquiriendo nuevas certificaciones en el ámbito de la tecnología.
+
+---
+
+¡Gracias por visitar mi perfil! No dudes en contactarme a través de mis redes sociales o explorar mis repositorios para ver en qué estoy trabajando. ¡Siempre estoy abierto a colaborar en proyectos interesantes! 😊
