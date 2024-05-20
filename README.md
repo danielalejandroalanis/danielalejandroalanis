@@ -15,7 +15,7 @@
 
 🌐 **Proyectos Actuales:**  
 - Desarrollo de la app móvil de [Divisi](https://divisi.app/)
-- Desarrollo landing y Backoffice de Divisi
+- Desarrollo landing y Backoffice de [Divisi](https://divisi.app/)
 
 📚 **Certificaciones:**  
 - Microsoft Certified: Azure Fundamentals (AZ-900) 🏅
