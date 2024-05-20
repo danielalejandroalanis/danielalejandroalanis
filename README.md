@@ -23,6 +23,7 @@
 
 🎓 **Docencia:**  
 - Profesor de React en [Coderhouse](https://www.coderhouse.com/) 🏫  
+Enseñar es una de mis grandes pasiones, ayudando a mis alumnos a alcanzar el éxito profesional y personal que desean.
 
 💡 **Intereses:**  
 - Tecnologías emergentes y nuevas tecnologías
@@ -39,8 +40,7 @@
 - Continuar creciendo profesionalmente y adquiriendo nuevas certificaciones en el ámbito de la tecnología.
 
 ## Mensaje para mis alumnos ✨
-
-Enseñar es una de mis grandes pasiones, ayudando a mis alumnos a alcanzar el éxito profesional y personal que desean. A todos mis alumnos que visiten mi perfil, espero que encuentren inspiración y motivación para seguir aprendiendo y creciendo. Recuerden que el camino del aprendizaje está lleno de desafíos, pero también de grandes recompensas. ¡Nunca dejen de creer en ustedes mismos y en su capacidad para lograr sus metas! 🚀💪
+A todos mis alumnos que visiten mi perfil, espero que encuentren inspiración y motivación para seguir aprendiendo y creciendo. Recuerden que el camino del aprendizaje está lleno de desafíos, pero también de grandes recompensas. ¡Nunca dejen de creer en ustedes mismos y en su capacidad para lograr sus metas! 🚀💪
 
 ---
 
