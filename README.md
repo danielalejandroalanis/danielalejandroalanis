@@ -1,47 +1,47 @@
-# ¡Hola! Soy Daniel Alejandro Alanis 👋
+# **Hello! I'm Daniel Alejandro Alanis 👋**
 
-¡Bienvenido a mi perfil de GitHub! Soy una persona apasionada por la tecnología y el desarrollo de software. Aquí encontrarás algunos de mis proyectos y contribuciones.
+Welcome to my GitHub profile! I am passionate about technology and software development. Here you will find some of my projects and contributions.
 
-## Sobre mí 🚀
+## **About Me 🚀**
 
-👨‍💻 **Especialización:**  
+👨‍💻 **Specialization:**  
 - **FrontEnd:**
-  - React ⚛️ (nivel experto)
-  - Angular 🌐 (nivel principiante)
+  - React ⚛️ (Expert level)
+  - Angular 🌐 (Beginner level)
 - **Mobile:**  
-  - Flutter 📱🔄 (proyectos actuales: [Divisi](https://divisi.app/))
+  - Flutter 📱🔄 (current projects: [Divisi](https://divisi.app/))
 - **Backend:**  
   - NestJs 🏠
 
-🌐 **Proyectos Actuales:**  
-- Desarrollo de la app móvil de [Divisi](https://divisi.app/)
-- Desarrollo de la parte web de Divisi
+🌐 **Current Projects:**  
+- Development of the [Divisi](https://divisi.app/) mobile app
+- Development of the [Divisi](https://divisi.app/) web platform
 
-📚 **Certificaciones:**  
+📚 **Certifications:**  
 - Microsoft Certified: Azure Fundamentals (AZ-900) 🏅
-- Estudiando para: Azure Developer Associate (AZ-204) 📖
+- Studying for: Azure Developer Associate (AZ-204) 📖
 
-🎓 **Docencia:**  
-- Profesor de React en [Coderhouse](https://www.coderhouse.com/) 🏫  
-Enseñar es una de mis grandes pasiones, ayudando a mis alumnos a alcanzar el éxito profesional y personal que desean.
+🎓 **Teaching:**  
+- React Instructor at [Coderhouse](https://www.coderhouse.com/) 🏫  
+  Teaching is one of my greatest passions, helping my students achieve the professional and personal success they desire.
 
-💡 **Intereses:**  
-- Tecnologías emergentes y nuevas tecnologías
-- Inteligencia Artificial 🤖 (futuro interés y meta)
+💡 **Interests:**  
+- Emerging technologies and new tech trends
+- Artificial Intelligence 🤖 (future interest and goal)
 
-## Redes Sociales 🌐
+## **Social Media 🌐**
 
 - [LinkedIn](https://www.linkedin.com/in/danielalejandroalanis/) 💼
 - [YouTube - CodingRift](https://www.youtube.com/@CodingRift) 🎥
 
-## Metas a Futuro 🎯
+## **Future Goals 🎯**
 
-- Ampliar mis conocimientos en IA y aplicar estos conocimientos en proyectos futuros.
-- Continuar creciendo profesionalmente y adquiriendo nuevas certificaciones en el ámbito de la tecnología.
+- Expand my knowledge in AI and apply these skills to future projects.
+- Continue growing professionally and acquiring new certifications in the tech field.
 
-## Mensaje para mis alumnos ✨
-A todos mis alumnos que visiten mi perfil, espero que encuentren inspiración y motivación para seguir aprendiendo y creciendo. Recuerden que el camino del aprendizaje está lleno de desafíos, pero también de grandes recompensas. ¡Nunca dejen de creer en ustedes mismos y en su capacidad para lograr sus metas! 🚀💪
+## **Message to My Students ✨**  
+To all my students visiting my profile, I hope you find inspiration and motivation to keep learning and growing. Remember that the path of learning is filled with challenges, but also great rewards. Never stop believing in yourselves and your ability to achieve your goals! 🚀💪
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en contactarme a través de mis redes sociales o explorar mis repositorios para ver en qué estoy trabajando. ¡Siempre estoy abierto a colaborar en proyectos interesantes! 😊
+**Thank you for visiting my profile!** Feel free to reach out to me through my social media or explore my repositories to see what I’m working on. I’m always open to collaborating on interesting projects! 😊
