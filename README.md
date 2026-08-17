@@ -9,20 +9,19 @@ Welcome to my GitHub profile! I am passionate about technology and software deve
   - React ⚛️ (Expert level)
   - Angular 🌐 (Beginner level)
 - **Mobile:**  
-  - Flutter 📱🔄 (current projects: [Divisi](https://divisi.app/))
+  - Flutter 📱🔄 ([Divisi](https://divisi.app/))
 - **Backend:**  
   - NestJs 🏠
 
 🌐 **Current Projects:**  
-- Development of the [Divisi](https://divisi.app/) mobile app
-- Development of the [Divisi](https://divisi.app/) web platform
+- Mercado Libre
 
 📚 **Certifications:**  
 - Microsoft Certified: Azure Fundamentals (AZ-900) 🏅
-- Studying for: Azure Developer Associate (AZ-204) 📖
+- Microsoft Azure Developer Associate (AZ-204) 🏅
 
 🎓 **Teaching:**  
-- React Instructor at [Coderhouse](https://www.coderhouse.com/) 🏫  
+- React and NodeJS Instructor at [Coderhouse](https://www.coderhouse.com/) 🏫  
   Teaching is one of my greatest passions, helping my students achieve the professional and personal success they desire.
 
 💡 **Interests:**  
